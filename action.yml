@@ -1,6 +1,6 @@
 name: geonsol-dodon
 description: This is an action to assign yourself to an issue for a repo you are not a contributor to.
-author: Brian Douglas
+author: Aisyah Terininda
 branding:
   icon: 'thumbs-up'
   color: 'white'
